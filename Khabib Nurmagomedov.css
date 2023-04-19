@@ -1,0 +1,51 @@
+body{
+    margin: 375px;
+    margin-top: 10px;
+}
+header{
+    text-align: center;
+    background-color: brown;
+    height:250px;
+}
+.kHabib{
+    color: white;
+}
+.inTro{
+    text-align: left;
+    color:white;
+    margin: 20px;
+    height:250px;
+    width:250px;
+}
+.iMage1{
+float:right;
+margin-top: -280px;
+margin-right: 50px;
+}
+.pAra{
+    float: right;
+    height:150px;
+    width:350px;
+    margin-top:-250px;
+}
+article{
+background-color: rgb(16, 17, 17);
+margin-top: -20px;
+}
+.H1{
+    color:rgb(185, 176, 176);
+    margin:10px;
+}
+.aRticle{
+background-color:azure;
+height:230px;
+margin-top:-10px;
+margin-left:10px;
+margin-right:10px;
+margin-bottom:20px;
+border-radius: 50px;
+}
+h4{
+    color: rgba(231, 238, 227, 0.705);
+    margin:10px;
+}
